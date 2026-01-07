@@ -7,7 +7,7 @@ excerpt: 'We introduce RNAtracker: a computational pipeline that categorizes gen
 date: 2025-09-05
 venue: 'Nature Genetics'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://www.nature.com/articles/s41588-025-02326-8)'
+paperurl: 'https://academicpages.github.io/files/rnatracker.pdf'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Huang E, Fu T, Zhang L, Yan G, Yamamoto R, Terrazas S, Nguyen T, Gonzalez-Figueroa C, Khanbabaei A, Bahn J, Varada R, Amoah K, Hervoso J, Paulsen MT, Magnuson B, Ljungman M, Li J, Xiao X. “Genetic variants affecting RNA stability influence complex traits and disease risk.” Nature Genetics. 57, 2578–2588 (2025).'
 ---
