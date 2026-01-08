@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PHYSCI125
 venue: "UCLA"
-date: 2024
+date: 2024-03-01
 location: "Los Angeles, CA"
 ---
 
